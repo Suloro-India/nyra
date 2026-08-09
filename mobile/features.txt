@@ -1,0 +1,15 @@
+NYRA AI - V1.1.0 Beta
+
+Added Digital Assistant to the settings menu.
+
+Implemented a smart in-app update system.
+
+Improved the UI for a cleaner look and faster actions.
+
+Optimized Pro verification for instant app startup.
+
+Fixed Note app issues and resolved general bugs.
+
+Corrected the home screen title to NYRA-AI.
+
+Enhanced overall security with encrypted local storage.
