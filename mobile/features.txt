@@ -1,15 +1,17 @@
-NYRA AI - V1.1.0 Beta
-
-Added Digital Assistant to the settings menu.
-
-Implemented a smart in-app update system.
-
-Improved the UI for a cleaner look and faster actions.
-
-Optimized Pro verification for instant app startup.
-
-Fixed Note app issues and resolved general bugs.
-
-Corrected the home screen title to NYRA-AI.
-
-Enhanced overall security with encrypted local storage.
+Added Girlfriend Mode persona
+Added real PPT/Excel/Word export
+Added dual camera recording
+Added interval photo capture
+Added Digital Assistant support
+Added trusted Wi-Fi detection
+Added mood-based content selection
+Added offline weather updates
+Added daily cricket update
+Added home screen edge glow
+Added app shortcut launcher
+Enforced 2-device login limit
+Added unknown speaker phone warning
+Added secure logout with confirmation
+Added delete-all-memory option
+Encrypted all local data storage
+Fixed bugs
